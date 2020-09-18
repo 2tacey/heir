@@ -11,7 +11,7 @@ for(let i = 0; i < config.tokens.length; i++) {
 
  console.log(red(`▂▃▅▇█▓▒░ heir selfbot has been started ░▒▓█▇▅▃▂`))
 
- console.log(red(`dm 22tacey#2222 if u have any problem or need help with the selfbot.`))
+ console.log(red(`dm heir#0022 if u have any problem or need help with the selfbot.`))
 
  console.log(green(`My prefix is: ${config.prefix}`));
 
